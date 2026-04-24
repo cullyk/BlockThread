@@ -20,6 +20,7 @@ build/
 .env.production.local
 
 # Python
+workers/image/output/
 __pycache__/
 *.py[cod]
 *$py.class
