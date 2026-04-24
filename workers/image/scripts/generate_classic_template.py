@@ -43,11 +43,11 @@ SHIRT_PANELS: list[PanelRegion] = [
     PanelRegion("right-arm-front", "R Arm Front",   98,  252, 64,  192, "#d6eaf8"),
     PanelRegion("right-arm-back",  "R Arm Back",    164, 252, 64,  192, "#d6eaf8"),
     PanelRegion("right-arm-top",   "R Arm Top",     98,  446, 64,  48,  "#c8e6c9"),
-    PanelRegion("right-arm-bot",   "R Arm Bot",     164, 446, 64,  48,  "#c8e6c9"),
+    PanelRegion("right-arm-bottom","R Arm Bottom",  164, 446, 64,  48,  "#c8e6c9"),
     PanelRegion("left-arm-front",  "L Arm Front",   400, 252, 64,  192, "#fce4ec"),
     PanelRegion("left-arm-back",   "L Arm Back",    466, 252, 64,  192, "#fce4ec"),
     PanelRegion("left-arm-top",    "L Arm Top",     400, 446, 64,  48,  "#fff9c4"),
-    PanelRegion("left-arm-bot",    "L Arm Bot",     466, 446, 64,  48,  "#fff9c4"),
+    PanelRegion("left-arm-bottom", "L Arm Bottom",  466, 446, 64,  48,  "#fff9c4"),
 ]
 
 PANTS_PANELS: list[PanelRegion] = [

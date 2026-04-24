@@ -101,4 +101,3 @@ Users are solely responsible for uploading only clothing photos they own or have
 2. Implement real background removal (e.g. rembg).
 3. Add segmentation to map clothing regions to template panels.
 4. Add user project persistence (database or file-system).
-Photo-to-Roblox classic clothing generator for 2D shirt and pants templates.
